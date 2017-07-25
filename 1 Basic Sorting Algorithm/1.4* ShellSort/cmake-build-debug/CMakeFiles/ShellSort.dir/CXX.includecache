@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jialingliao/Desktop/CLionProjects/ShellSort/BubbleSort.h
+iostream
+-
+
+/Users/jialingliao/Desktop/CLionProjects/ShellSort/InsertionSort.h
+iostream
+-
+
+/Users/jialingliao/Desktop/CLionProjects/ShellSort/SelectionSort.h
+iostream
+-
+
+/Users/jialingliao/Desktop/CLionProjects/ShellSort/SortTestHelper.h
+iostream
+-
+cassert
+-
+
+/Users/jialingliao/Desktop/CLionProjects/ShellSort/main.cpp
+iostream
+-
+SortTestHelper.h
+/Users/jialingliao/Desktop/CLionProjects/ShellSort/SortTestHelper.h
+SelectionSort.h
+/Users/jialingliao/Desktop/CLionProjects/ShellSort/SelectionSort.h
+InsertionSort.h
+/Users/jialingliao/Desktop/CLionProjects/ShellSort/InsertionSort.h
+BubbleSort.h
+/Users/jialingliao/Desktop/CLionProjects/ShellSort/BubbleSort.h
+
