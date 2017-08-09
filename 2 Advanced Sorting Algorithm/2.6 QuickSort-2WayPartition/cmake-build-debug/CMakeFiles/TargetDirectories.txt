@@ -1,0 +1,3 @@
+/Users/jialingliao/Desktop/Algorithms-and-Data-Structure/2 Advanced Sorting Algorithm/2.6 QuickSort-2wayPartiton/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/jialingliao/Desktop/Algorithms-and-Data-Structure/2 Advanced Sorting Algorithm/2.6 QuickSort-2wayPartiton/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jialingliao/Desktop/Algorithms-and-Data-Structure/2 Advanced Sorting Algorithm/2.6 QuickSort-2wayPartiton/cmake-build-debug/CMakeFiles/QuickSort.dir
