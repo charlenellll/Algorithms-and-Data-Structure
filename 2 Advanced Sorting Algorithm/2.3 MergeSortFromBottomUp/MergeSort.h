@@ -17,7 +17,7 @@ void __merge(T arr[], int l, int mid, int r){
     for(int i = l; i <= r; i++)
         aux[i-l] = arr[i];
 
-    int i = l, j = mid+1;
+    int i = l, j = mid+1; // start point of left part and right part
     for( int k = l; k <= r; k++){
         if( i > mid ){ // If already arranged all elements in the left part, the right part may have some elements left
             arr[k] = aux[j-l];
